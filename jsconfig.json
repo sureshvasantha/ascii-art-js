@@ -1,0 +1,6 @@
+{
+  "include": ["**/*.js"],
+  "typeAcquisition": {
+    "include": ["p5"]
+  }
+}
