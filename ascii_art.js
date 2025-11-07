@@ -4,16 +4,16 @@
 // const density = "Ñ@#W$9876543210?!abc;:+=-,._          ";
 
 // original
-const density = "Ñ@#W$9876543210?!abc;:+=-,._          "
-  .split("")
-  .reverse()
-  .join("");
+// const density = "Ñ@#W$9876543210?!abc;:+=-,._          "
+//   .split("")
+//   .reverse()
+//   .join("");
 // const density = "Ñ@#W$9876543210?!abc;:+=-,._  ".split("").reverse().join("");
 // const density = "       .:-i|=+%O#@";
 // const density = " .:-i|=+%O#@";
 // const density = "       .:░▒▓█";
 // const density = ".:░▒▓█".split("").reverse().join("");
-// const density = "  .:░▒▓█";
+const density = "  .:░▒▓█";
 
 // let gloria;
 let video;
